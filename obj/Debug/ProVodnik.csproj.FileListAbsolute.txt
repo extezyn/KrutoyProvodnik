@@ -1,0 +1,7 @@
+C:\Users\Roma\source\repos\ProVodnik\ProVodnik\bin\Debug\ProVodnik.exe.config
+C:\Users\Roma\source\repos\ProVodnik\ProVodnik\bin\Debug\ProVodnik.exe
+C:\Users\Roma\source\repos\ProVodnik\ProVodnik\bin\Debug\ProVodnik.pdb
+C:\Users\Roma\source\repos\ProVodnik\ProVodnik\obj\Debug\ProVodnik.csproj.AssemblyReference.cache
+C:\Users\Roma\source\repos\ProVodnik\ProVodnik\obj\Debug\ProVodnik.csproj.CoreCompileInputs.cache
+C:\Users\Roma\source\repos\ProVodnik\ProVodnik\obj\Debug\ProVodnik.exe
+C:\Users\Roma\source\repos\ProVodnik\ProVodnik\obj\Debug\ProVodnik.pdb
